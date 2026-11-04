@@ -1,0 +1,19 @@
+{
+  "name": "Bioferia · La medida justa",
+  "short_name": "Bioferia",
+  "description": "Traé, medí, intercambiá y descubrí cómo se transforma tu plástico en Bioferia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#003b94",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
